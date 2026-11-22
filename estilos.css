@@ -19,7 +19,7 @@ html {
 /**********************************/
 header {/*caracteristicas elementos dentro del header de la pagina*/
 	font-size: 24px; /*tamaño de las fuentes que aprecen en el header*/
-  	background-color: white;  /*color fondo encabezado*/
+  	background-color: ;  /*color fondo encabezado*/
     height: 130px;  /* altura del encabezado, equivale a 5.5em*/
     padding-left: 10%; /*hago un espacio a la izquierda al interior del contenedor header de 10% del ancho del viewport*/
     padding-right: 10%; /*hago un espacio a la derecha al interior del contenedor header de 10% del ancho del viewport*/
